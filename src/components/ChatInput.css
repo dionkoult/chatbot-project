@@ -73,4 +73,9 @@
     font-size: 16px;
     -webkit-text-size-adjust: 100%;
   }
+  
+  .send-button,
+  .clear-button {
+    margin-left: 5px;
+  }
 }
